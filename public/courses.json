@@ -1,0 +1,74 @@
+[
+  {
+    "id": 101,
+    "courseName": "GRAPHIC DESIGN",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/graphics.jpg",
+    "description": "Graphicriver and freelancing marketplace base graphic design & design concept development based curriculum."
+  },
+  {
+    "id": 102,
+    "courseName": "RESPONSIVE WEB DESIGN",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/rwd.jpg",
+    "description": "International marketplace themeforest & freelancing marketplace & standard design concept development course curriculum."
+  },
+  {
+    "id": 103,
+    "courseName": "WEB DEVELOPMENT",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/web-dev.jpg",
+    "description": "PHP, PHP OOP, MySQL & Laravel base website development, ecommerce and web application development."
+  },
+  {
+    "id": 104,
+    "courseName": "WEB APPLICATION DEVELOPMENT",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/web-app.jpg",
+    "description": "Live project and fully internship based application development course curriculum for student."
+  },
+  {
+    "id": 105,
+    "courseName": "FULL STACK WEB DEVELOPMENT",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/full-stack-dev.jpg",
+    "description": "Freelancing marketplace and local market based course curriculum of full stack web development course."
+  },
+  {
+    "id": 106,
+    "courseName": "PYTHON WITH DJANGO",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/python.jpg",
+    "description": "Web application based python course & good programming concept and freelancing marketplace knowledge."
+  },
+  {
+    "id": 107,
+    "courseName": "UI/UX DESIGN",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/ui-ux.jpg",
+    "description": "International and freelancing marketplace base UI/Ux design & good design concept development based course curriculum."
+  },
+  {
+    "id": 108,
+    "courseName": "NODE JS",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/nodejs.jpg",
+    "description": "Basic to advance and live project based node js application development course curriculum for student."
+  },
+  {
+    "id": 109,
+    "courseName": "CYBER SECURITY",
+    "courseFee": 12000,
+    "duration": "3 Month",
+    "img": "https://www.creativeshaper.com/uploads/course/cyber.jpg",
+    "description": "Expand your knowledge of network, web and mobile app security and prepare you to identify threats and vulnerabilities."
+  }
+]

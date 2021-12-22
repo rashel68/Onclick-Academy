@@ -1,0 +1,50 @@
+[
+	{
+		"id": "m1",
+		"name": "Jhankar Mahbub",
+		"title": "CEO & Founder",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625573122618.png"
+	},
+	{
+		"id": "m2",
+		"name": "Rasel Ahmed",
+		"title": "Product Manager",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625419447111.png"
+	},
+	{
+		"id": "m3",
+		"name": "Karina Islam",
+		"title": "Advisor",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625573160811.png"
+	},
+	{
+		"id": "m4",
+		"name": "Shajedul Karim",
+		"title": "Chief Operating Officer",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625573176714.png"
+	},
+	{
+		"id": "m5",
+		"name": "Shafi Ahmed",
+		"title": "Web Developer",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625573189607.png"
+	},
+	{
+		"id": "m6",
+		"name": "Rezaul Karim",
+		"title": "Software Engineer",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625573334879.png"
+	},
+	{
+		"id": "m7",
+		"name": "Mohammad Anwar",
+		"title": "Software Engineer",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625664273233.png"
+	},
+	{
+		"id": "m8",
+		"name": "Mujahidul Islam",
+		"title": "Cyber Specialist",
+		"img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1625573485356.png"
+	}
+]
